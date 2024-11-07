@@ -1,0 +1,49 @@
+.di {
+    background-color: azure;
+    height: 500px;
+    width: 500px;
+    font-size: 20px;
+    text-align: center;
+    line-height: 10px;
+    margin-top: 0px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    color: rebeccapurple;
+}
+h2{
+    color: blue;
+}
+h3{
+    color: bisque;
+}
+h4{
+    color: brown;
+}
+h5{
+    color: rgb(62, 53, 42);
+}
+h6{
+    color: aquamarine;
+}
+p{
+    font-size: medium;
+    margin-left: 100px;
+}
+#para{
+    color: red;
+    margin-left: 300px;
+    font-weight: bold;
+  font-size: x-large;
+}
+a{
+    font-size: 100px;
+    color: rebeccapurple;
+    margin-left: 100px;
+    
+}
+button{
+    color: rgb(5, 57, 44);
+    margin-left: 150px;
+    margin-top: 50px;
+}
